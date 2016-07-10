@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 __author__ = '刘世爱'
 
-#导入模块
+#导入模块  
 import re
 
 pattern = re.compile(r'hello')
